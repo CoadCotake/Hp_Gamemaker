@@ -1,0 +1,1 @@
+player.hit_delay=1;

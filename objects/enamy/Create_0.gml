@@ -1,0 +1,12 @@
+hp=150;
+move=0;
+vsp=0;
+hrt=0;
+skillg=0
+alarm[0]=90;
+hit_delay = 0
+move_speed=1.1;
+ch=0;
+ch1=0;
+alarm[2]=30;
+alarm[4]=30;
